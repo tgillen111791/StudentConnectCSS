@@ -1,0 +1,16 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 Post ID, Name, Profile Photo, Message, Time Posted\
+\
+7, Craig Taylor, /ProfilePictures/0007.jpg, Yea, let\'92s get this last programming assignment of the semester done!, 42 Minutes Ago\
+6, Clark James, /ProfilePictures/0002.jpg, Craig and I are ordering some pizza at our apartment 493 W. Central and are going to try to bust out this networking program tonight for those interested in joining, 8 Hours Ago\
+5, Naomi Bishop, /ProfilePictures/0008.jpg, Awe, thanks Vanessa! Your powerpoint over WAN technologies was very cool!, 13 Hours Ago\
+4, Vanessa Eady, /ProfilePictures/0004.jpg, I thought your presentation board looked awesome Naomi!, 04/23/2014\
+3, Naomi Bishop, /ProfilePictures/0008.jpg, I\'92m doing a poster board but only because I like to be creative., 04/22/2014\
+2, Clark James, /ProfilePictures/0002.jpg, I\'92m just doing a powerpoint, I think it\'92ll be a lot less time consuming than building a presentation board. But, maybe I am just lazy\'85, 04/21/2014\
+1, Kimberly Simone, /ProfilePictures/0005.jpg, Is anyone making an actual presentation board for their project or just a powerpoint?, 04/21/2014\
+}
