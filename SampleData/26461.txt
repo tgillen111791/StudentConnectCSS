@@ -1,5 +1,14 @@
 {\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
-{\fonttbl}
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 Post ID, Name, Profile Photo, Message, Time Posted\
+\
+5, Leon Herndon, /ProfilePictures/0009.jpg, I assume so as he has been taking some of the questions from the back of the chapter and using them on previous tests. So I just assume he\'92ll do the same this time., 7 Hours Ago\
+4, Fred Sicard, /ProfilePictures/0010.jpg, Are those the type of questions he will be asking us on the test?, 04/23/2014\
+3, Leon Herndon, /ProfilePictures/0009.jpg, What has helped me is that I\'92ve been working through some of the exercises at the end of the chapter as they are all on Chegg., 04/23/2014\
+2, Kimberly Simone, /ProfilePictures/0005.jpg, I have not taken Formal Logic since like a year ago last fall so I\'92m having a hard time remembering all these rules., 04/22/2014\
+1, Emma Jones, /ProfilePictures/0003.jpg, Does anyone remember any of this stuff we are doing in class from Formal Logic?, 04/22/2014\
 }
